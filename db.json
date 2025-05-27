@@ -1,15 +1,24 @@
 {
-  "posts":[
+  "posts": [
     {
-        "title":"first post",
-        "content":"This is First Post made by us in CRUD app",
-        "id":"74e2"
+      "title": "first post",
+      "content": "This is First Post made by us in CRUD app",
+      "id": "74e2"
     },
     {
-        "id":"8416",
-        "title":"second post",
-        "content":"This is Second Post made by us in CRUD app"
-
+      "id": "8416",
+      "title": "second post",
+      "content": "This is Second Post made by us in CRUD app"
+    },
+    {
+      "id": "012c",
+      "title": "jib",
+      "content": "search job"
+    },
+    {
+      "id": "3be7",
+      "title": "job",
+      "content": "jah"
     }
   ]
 }
